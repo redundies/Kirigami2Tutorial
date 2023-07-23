@@ -11,7 +11,7 @@ KDE Frameworks. [See Here](https://api.kde.org/frameworks/index.html)
 Installing IDE and Development Packages.
 
 ### Installing KDevelop
-Although IDE's (Kate, VSCode) and Text Editors (KWrite, VIM, Emacs) will suffice, KDevelop is an optimized environment for applications running through the KDE Framework.
+Although IDE's (Kate & VSCode) and Text Editors (KWrite, Emacs, and Vim *which I personally use*) will suffice, KDevelop is an optimized environment for applications running through the KDE Framework.
 ```
 sudo apt install kdevelop
 ```
