@@ -1,4 +1,6 @@
-$$\Huge{f(x)=x+2}$$
+```math
+\Huge{f(x)=x+2}
+```
 
 # Kirigami2 Tutorial
 A tutorial on building convergent applications using Kirigami2 for Linux &amp; Android <br/>
