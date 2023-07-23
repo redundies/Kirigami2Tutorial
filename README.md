@@ -3,10 +3,10 @@ A tutorial on building convergent applications using Kirigami2 for Linux &amp; A
 This tutorial is intended for Ubuntu-based Distributions. <br/>
 
 ### :link: LINKS
-+ Kirigami API Reference. [See Here](https://api.kde.org/frameworks/kirigami/html/index.html) <br/>
-+ Official Tutorial for Kirigami2. [See Here](https://develop.kde.org/docs/getting-started/kirigami/)<br/>
-+ KDE Human Interface Guidelines. [See Here](https://develop.kde.org/hig/)<br/>
-+ KDE Frameworks. [See Here](https://api.kde.org/frameworks/index.html)
++ Kirigami API Reference. [:arrow_upper_right:](https://api.kde.org/frameworks/kirigami/html/index.html) <br/>
++ Official Tutorial for Kirigami2. [:arrow_upper_right:](https://develop.kde.org/docs/getting-started/kirigami/)<br/>
++ KDE Human Interface Guidelines. [:arrow_upper_right:](https://develop.kde.org/hig/)<br/>
++ KDE Frameworks. [:arrow_upper_right:](https://api.kde.org/frameworks/index.html)
 
 # Setting Up for Development
 Installing IDE and Development Packages.
