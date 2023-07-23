@@ -30,3 +30,5 @@ sudo apt install kirigami-gallery kapptemplate kommit cuttlefish
 **KAppTemplate** is a template creator for QT Application including Kirigami2. <br/>
 **Kommit** is a GIT client. <br/>
 **CuttleFish** lets you browse on icons. <br/>
+
+Files and sources from this repository is still under development.
