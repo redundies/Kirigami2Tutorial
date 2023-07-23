@@ -1,5 +1,5 @@
 # Kirigami2 Tutorial
-A tutorial on building convergent applications using Kirigami2 for Linux &amp; Android on terminal-centric environment. This tutorial is intended for Ubuntu-based Distributions, *preferably, KDE NEON 22.04*. 
+A tutorial on building convergent applications using Kirigami2 for Linux &amp; Android on a terminal-centric environment. This tutorial is intended for Ubuntu-based Distributions, *preferably, KDE NEON 22.04*. 
 
 ### :computer: Table of Content
 
