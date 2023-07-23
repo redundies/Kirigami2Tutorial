@@ -1,4 +1,4 @@
-# KirigamiTutorial
+# Kirigami Tutorial
 A tutorial on building convergent applications using Kirigami2 for Linux &amp; Android. <br/>
 This tutorial is intended for Debian-based Distributions. <br/>
 
