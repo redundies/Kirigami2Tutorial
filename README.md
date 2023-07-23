@@ -31,5 +31,4 @@ sudo apt install kirigami-gallery kapptemplate kommit cuttlefish
 **Kommit** is a GIT client. <br/>
 **CuttleFish** lets you browse on icons. <br/>
 
-Source Files are still under development. 
 
